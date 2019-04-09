@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+html,body{
+background-image: url('https://images4.alphacoders.com/601/thumb-1920-601048.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+font-family: 'Numans', sans-serif;
+overflow-y: hidden;
+}
+
+.container{
+height:100%;
+align-content: center;
+}
+
+a.logout{
+  margin-left: 90%;
+  color: white;
+  font-size: 20px;
+}
+
+.info{
+  margin-left: 75%;
+  margin-top: -50%;
+}
+
+.column{
+float: left;
+width: 500px;
+}
+
+.option{
+  margin-left:2%;
+  margin-bottom: 1%;
+}
+
+.card{
+border: 1px dashed white;
+height: 680px;
+width: 100%;
+margin-top: 2%;
+margin-bottom: auto;
+background-color: rgba(0,0,0,0.7) !important;
+}
+
+.welcomeBoard{
+color: white;
+text-align: center;
+background-color: rgba(0,0,0,0.5) !important;
+}
+
+.welcomeHeader{
+  margin-top: 1%;
+}
+
+
+
+.nav_btn{
+color: black;
+background-color: #FFC312;
+width:48%;
+}
+
+/*---------------------------Displaying Song Container---------------------------*/
+.songDisplayContainer{
+  width: 100%;
+  height: 685px;
+}
+
+.sortDropdown{
+  margin-left: 1%;
+}
+
+/*Individual Song Card*/
+.cardSong {
+  margin-left: 8%;
+  margin-bottom: 40%;
+  color: white;
+  height: 15%;
+  width: 15%;
+}
+
+.cardSong img{
+  width: 140%;
+}
+
+.containerSong {
+  width: 140%;
+  padding: 0px 0px;
+}
+
+.containerSong h6,b{
+  font-size: 0.9vw;
+}
+/*Individual Song Card*/
+
+/*The div that display all the song card*/
+.row{
+  width: 80%;
+  height: 78%;
+  margin-left:-5%;
+  overflow-y: auto;
+  overflow-x: none;
+  margin-top: 10px;
+}
+/*The div that display all the song card*/
+
+
+/*Individual Song Card information*/
+.cardSongInfo {
+  padding: 0px;
+  color: white;
+  width: 45%;
+}
+
+.cardSongInfo img{
+  width: 145%;
+}
+
+.containerInfo{
+  width: 140%;
+}
+
+.infoPage{
+  margin-top:-645px;
+  margin-left: 78%;
+  width: 30%;
+  height: 50%;
+  position: absolute;
+}
+
+.title{
+  margin-top: 5%;
+  font-size: 0.9vw;
+  font-weight: bold;
+}
+
+.songDetail{
+  font-size: 0.9vw;
+  font-style: italic;
+}
+/*Individual Song Card information*/
+
+
+/*---------------------------Displaying Song Container---------------------------*/
+
+#songs{
+  display: block;
+  color:white;
+}
+
+#Setting{
+  display: none;
+}
+
+#playlist{
+  display: none;
+}
+
+.input-group-prepend span{
+width: 40px;
+background-color: #FFC312;
+color: black;
+border:0 !important;
+}
+
+input:focus{
+outline: 0 0 0 0  !important;
+box-shadow: 0 0 0 0 !important;
+}
+
+#createPlaylist{
+  width: 250px;
+  text-align: center;
+  color: white;
+  margin: -550px auto;
+}
+
+
+
+
+
+
+
+
+/* Scrollbar styles */
+::-webkit-scrollbar {
+width: 12px;
+height: 12px;
+-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.9);
+border-radius: 10px;
+background-color: #CCCCCC;
+}
+}
+
+::-webkit-scrollbar-track {
+border: 1px solid white;
+border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+background: linear-gradient(red, yellow);
+border-radius: 10px;
+}
