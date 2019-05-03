@@ -9,3 +9,9 @@
 
 ![image](https://user-images.githubusercontent.com/38359318/57167889-6c0c9d00-6dcd-11e9-8796-81541939e52b.png)
 
+## User Playlist
+- User must create a playlist before adding in songs
+
+![image](https://user-images.githubusercontent.com/38359318/57168011-ef2df300-6dcd-11e9-8139-9deff36eebb5.png)
+
+
