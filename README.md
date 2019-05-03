@@ -8,7 +8,7 @@
 - These songs are added to the database
 ![image](https://user-images.githubusercontent.com/38359318/57167889-6c0c9d00-6dcd-11e9-8796-81541939e52b.png)
 
-## User Playlist
+## User Create Playlist
 - User must create a playlist before adding in songs
 ![image](https://user-images.githubusercontent.com/38359318/57168011-ef2df300-6dcd-11e9-8139-9deff36eebb5.png)
 
@@ -17,5 +17,7 @@
 - The user can select any songs to add it to their playlist
 ![image](https://user-images.githubusercontent.com/38359318/57168064-269c9f80-6dce-11e9-882a-0bc39d15e2ff.png)
 
+## User's Playlist With Songs
+![image](https://user-images.githubusercontent.com/38359318/57168129-74b1a300-6dce-11e9-9c7b-23246e7aae56.png)
 
 
