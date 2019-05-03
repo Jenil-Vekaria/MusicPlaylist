@@ -1,5 +1,5 @@
 <?php
-$connection = mysqli_connect("localhost","jvekaria",":OfPaquo","jvekaria");
+$connection = mysqli_connect("localhost","<username>","<password>","<username>");
 if(!$connection)
   die("Database Connection Failed" . mysqli_error($connection));
 
